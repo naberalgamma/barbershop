@@ -1,0 +1,123 @@
+body{
+    background-color: #FFF0F5;
+    font-family: "PT Sans Narrow", Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 1200px;
+
+}
+.menu{
+    width: 100%;
+    padding: 30px;
+    padding-left: 170px;
+    background-color: black;
+    margin: 0px, auto;
+    font-weight: bold;
+    margin-bottom: 70px;
+    
+}
+.menu-logo{
+    font-family: 'Ephesis', cursive;
+    color: white;
+    text-transform: capitalize;
+    font-size: 36px;
+    display: inline;
+    margin-right: 40px;
+}
+.enter-logo{
+    padding-right: 10px;
+}
+.menu-buttom{
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+}
+#enter-buttom{
+    padding-left: 200px;
+}
+.container{
+    padding-bottom: 50px;
+    background-color: #C0C0C0;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+.title{
+    font-size: 32px;
+    padding: 20px 30px;
+    background-color: black;
+    color: white;
+}
+.text{
+    font-size: 24px;
+}
+.input-login{
+    margin-left: 38px;
+    padding: 10px 10px;
+}
+.input-password{
+    margin-left: 20px;
+    padding: 10px 10px;
+}
+.login{
+    margin-top: 50px;
+}
+.password{
+    padding-bottom: 40px;
+}
+.button1{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.button2{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.footer{
+    width: 100%;
+    display: flex;
+    height: 170px;
+    padding-left: 130px;
+    margin-top: 100px;
+    color: white;
+    background-color: rgb(34, 31, 31);
+    font-size: 12px;
+}
+.info{
+    text-transform: uppercase;
+    
+    
+}
+.info-link{
+    color: white;
+}
+.socnetw{
+    padding-left: 300px;
+}
+.fb{
+   margin-left: 5px;
+}
+.insta{
+    margin-left: 1px;
+}
+.developed{
+    padding-left: 300px;
+}
+.dev-title{
+    padding-bottom: 10px;
+}
+.devbuttom{
+    text-decoration: none;
+    padding: 10px 25px ;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    
+}
